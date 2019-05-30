@@ -1,3 +1,3 @@
 # hello-world
-Starting GitHub
+Starting GitHub.
 I am a University of Buea Computer Science student.
